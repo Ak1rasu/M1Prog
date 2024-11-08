@@ -19,7 +19,7 @@ namespace MovePlayerLoop
             player.x = 10;
             player.y = 10;
             player.color = Brushes.Red;
-
+             
         }
 
         private void Form1_KeyUp(object? sender, KeyEventArgs e)
